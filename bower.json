@@ -1,0 +1,12 @@
+{
+  "name": "alarm-clock",
+  "version": "0.0.1",
+  "authors": [
+    "Javi Manzano <javi.manzano.oller@gmail.com>"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "foundation": "~5.2.2",
+    "angular": "~1.2.16"
+  }
+}

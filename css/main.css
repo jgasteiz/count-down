@@ -1,0 +1,32 @@
+body {
+	margin: 20px 0;
+}
+
+#time,
+#time-input {
+	font-size: 36px;
+	text-align: center;
+}
+
+#time-input {
+	height: auto;
+}
+
+.centre-button {
+	display: block;
+	margin: 0 auto;
+}
+
+@media only screen and (min-width: 40.063em) {
+	#time,
+	#time-input {
+		font-size: 76px;
+	}
+}
+
+@media only screen and (min-width: 64.063em) {
+	#time,
+	#time-input {
+		font-size: 126px;
+	}
+}

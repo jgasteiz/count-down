@@ -1,6 +1,6 @@
 # Alarm clock
 
-## Simple alarm clock with an irritating noise when the time is over.
+**Simple alarm clock with an irritating noise when the time is over.**
 
 
 ### Instructions

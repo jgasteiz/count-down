@@ -1,6 +1,6 @@
-# Alarm clock
+# Count down
 
-**Simple alarm clock with an irritating noise when the time is over.**
+**Simple count down with an irritating noise when the time is over.**
 
 
 ### Instructions
